@@ -19,9 +19,11 @@
 @import "screens/settings.css";
 @import "screens/chat.css";
 body {
-  color: #2f363e;
+  /* color: #2f363e; */
   font-family: "Heebo", sans-serif;
   height: 1000vh;
+  background-color: #e8e0d5;
+  color: #454c5c;
 }
 .main-screen {
   padding: 0px var(--horizontal-space);

@@ -1,18 +1,18 @@
 #chat-screen {
-  background-color: #abc1d1;
+  background-color: #454c5c;
   height: 500vh;
 }
 #chat-screen .alt-header {
   width: 100%;
   position: fixed;
   box-sizing: border-box;
-  background-color: #abc1d1;
+  background-color: #454c5c;
   z-index: 1;
 }
 /* z-index는 layer 순서
 기본값은 0 */
 #chat-screen .status-bar {
-  background-color: #abc1d1;
+  background-color: #454c5c;
   z-index: 1;
 }
 @keyframes fadeIn {
@@ -34,7 +34,7 @@
 }
 .chat__timestamp {
   color: white;
-  background-color: #92a4b2;
+  background-color: #454c5c;
   padding: 15px;
   font-size: 14px;
   border-radius: 25px;
