@@ -7,6 +7,7 @@
   top: 0;
   background-color: #454c5c;
   color: #e8e0d5;
+  z-index: 3;
 }
 .status-bar__column {
   width: 33%;

@@ -28,6 +28,12 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border-radius: 10px;
+  transition: box-shadow 0.3s ease-in-out;
+}
+.open-post:hover {
+  box-shadow: rgba(62, 93, 50, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 .open-chat__title {
   font-weight: 600;
