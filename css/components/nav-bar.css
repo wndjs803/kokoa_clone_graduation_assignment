@@ -60,14 +60,14 @@
 .nav__btn {
   transform: translateY(80px);
   opacity: 0;
-  animation: appearBtnAnimation 1s ease-in-out forwards;
+  animation: appearBtnAnimation 0.3s ease-in-out forwards;
 }
 .nav__btn:nth-child(2) {
-  animation-delay: 0.5s;
+  animation-delay: 0.3s;
 }
 .nav__btn:nth-child(3) {
-  animation-delay: 1s;
+  animation-delay: 0.5s;
 }
 .nav__btn:last-child {
-  animation-delay: 1.5s;
+  animation-delay: 0.7s;
 }
