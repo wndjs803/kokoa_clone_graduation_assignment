@@ -30,6 +30,7 @@
   align-items: center;
   border-radius: 10px;
   transition: box-shadow 0.3s ease-in-out;
+  margin-bottom: 10px;
 }
 .open-post:hover {
   box-shadow: rgba(62, 93, 50, 0.25) 0px 13px 27px -5px,
