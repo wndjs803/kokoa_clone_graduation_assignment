@@ -9,6 +9,9 @@
 .more-suggestions__title {
   margin-bottom: 30px;
 }
+.more-suggestions__content {
+  display: flex;
+}
 .more-suggestions__icons {
   display: flex;
 }
@@ -31,4 +34,8 @@
 }
 .more-suggestions__icon-image i {
   font-size: 32px;
+}
+.more-suggestions__icon-image img {
+  width: 40px;
+  height: 35px;
 }
