@@ -72,9 +72,3 @@
 .nav__btn:last-child {
   animation-delay: 0.7s;
 }
-.nav__btn i {
-  transition: transform 0.5s ease-in-out;
-}
-.nav__btn i:hover {
-  transform: translateY(-10px);
-}
